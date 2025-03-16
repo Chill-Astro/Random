@@ -1,0 +1,14 @@
+C:\Users\Master\Chill-Astro\.NET\Random\obj\Debug\net9.0\Random.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master\Chill-Astro\.NET\Random\obj\Debug\net9.0\Random.AssemblyInfoInputs.cache
+C:\Users\Master\Chill-Astro\.NET\Random\obj\Debug\net9.0\Random.AssemblyInfo.cs
+C:\Users\Master\Chill-Astro\.NET\Random\obj\Debug\net9.0\Random.csproj.CoreCompileInputs.cache
+C:\Users\Master\Chill-Astro\.NET\Random\bin\Debug\net9.0\Random.exe
+C:\Users\Master\Chill-Astro\.NET\Random\bin\Debug\net9.0\Random.deps.json
+C:\Users\Master\Chill-Astro\.NET\Random\bin\Debug\net9.0\Random.runtimeconfig.json
+C:\Users\Master\Chill-Astro\.NET\Random\bin\Debug\net9.0\Random.dll
+C:\Users\Master\Chill-Astro\.NET\Random\bin\Debug\net9.0\Random.pdb
+C:\Users\Master\Chill-Astro\.NET\Random\obj\Debug\net9.0\Random.dll
+C:\Users\Master\Chill-Astro\.NET\Random\obj\Debug\net9.0\refint\Random.dll
+C:\Users\Master\Chill-Astro\.NET\Random\obj\Debug\net9.0\Random.pdb
+C:\Users\Master\Chill-Astro\.NET\Random\obj\Debug\net9.0\Random.genruntimeconfig.cache
+C:\Users\Master\Chill-Astro\.NET\Random\obj\Debug\net9.0\ref\Random.dll
