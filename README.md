@@ -50,3 +50,9 @@ Another update of Random is being made with higher difficulty!
 - No installation needed if using Random.exe on Windows or Random-Linux for Linux & Random-MacOSxxx on MacOS!
 
 ---
+
+## Note from Developer :
+
+Appreciate my effort? Why not leave a Star ⭐ ! Also if forked, please credit me for my effort and thanks if you do! :)
+
+---
