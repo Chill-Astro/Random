@@ -15,12 +15,6 @@ Too Low! Too High! Are they Hinting at something? Can these clues help me win?
 
 ---
 
-## Install Random from Winget [ Coming Soon! ] : 
-
-    winget install Random
-
----
-
 ## To Run on Linux & MacOS : 
 
     chmod +x /path/Random 
