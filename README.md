@@ -7,6 +7,8 @@ Random is a Lightweight Console Game made in C#. You have Five Attempts. Can you
 
 Too Low! Too High! Are they Hinting at something? Can these clues help me win?
 
+NOTE : Random's development has been halted to focus on more important projects.
+
 ## Key Features :
 
 - Extemely Lightweight [It's a Terminal-based App]. ✅
@@ -28,12 +30,6 @@ Replace path with the actual directory.
 ## Preview :
 
 ![image](https://github.com/user-attachments/assets/2bebfafa-b881-4b92-8cfb-b6475366fa78)
-
----
-
-## Interested in More Random? 
-
-Another update of Random is being made with higher difficulty!
 
 ---
 
